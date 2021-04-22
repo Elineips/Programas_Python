@@ -1,7 +1,7 @@
 # Programas_Python
 Programa gráficos de python
 
-Programas em Python para  criação de gráficos simples vistos em aula, na Disciplina Físcia IV
+Programas em Python para  criação de gráficos simples vistos em aula, na Disciplina Físcia IV e Mecânica Clássica I
 
 PARA BAIXAR OS CODIGOS:
 
